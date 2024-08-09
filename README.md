@@ -1,4 +1,4 @@
-Physics➡️ (learning statistical field theory and quantum field theory)
+Physics⚛️ (learning statistical field theory and quantum field theory)
 Coding💻 (learning data structure and algorithm)
 And 
 Game🔫
