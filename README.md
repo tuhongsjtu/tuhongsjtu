@@ -1,4 +1,4 @@
-## PHD student major in condensed matter physics @ SJTU 😊
+PHD student major in condensed matter physics @ SJTU 😺
 
 <!--
 **tuhongsjtu/tuhongsjtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
