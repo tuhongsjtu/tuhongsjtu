@@ -1,7 +1,4 @@
-Physics⚛️ (learning statistical field theory and quantum field theory)
-Coding💻 (learning data structure and algorithm)
-And 
-Game🔫
+learning field theory ......
 
 <!--
 **tuhongsjtu/tuhongsjtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
